@@ -1,6 +1,6 @@
 {
   "movies": [
-    { "id": 0, "title": "Alien", "url" : "https://www.youtube.com/embed/svnAD0TApb8", "year": "2017", "age" : "18+", "time":"122 mins", "director" : "Ridley Scott", "genre":"Horror, Thriller", "actors":"Michael Fassbender, Katherine Waterston, Billy Crudup", "description" : "Best film ever"},
+    { "id": 0, "title": "Alien", "url" : "https://www.youtube.com/embed/svnAD0TApb8", "year": "2017", "country": "USA", "age" : "18+", "time":"122 mins", "director" : "Ridley Scott", "genre":"Horror, Thriller", "actors":"Michael Fassbender, Katherine Waterston, Billy Crudup", "description" : "Best film ever"},
     { "id": 1, "title": "Blackkklansman", "url" : "https://www.youtube.com/embed/fQNZhs0QKq0", "year": "2018", "age" : "", "time":"", "director" : "", "genre":"","description" : "Best film ever" },
     { "id": 2, "title": "Mother", "url": "https://www.youtube.com/embed/XpICoc65uh0", "year": "", "age" : "", "time":"", "director" : "", "genre":"", "description": "Best film ever" },
     { "id": 3, "title": "Suspiria", "url": "https://www.youtube.com/embed/BY6QKRl56Ok", "year": "", "age" : "", "time":"", "director" : "", "genre":"",  "description": ""},

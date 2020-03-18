@@ -1,8 +1,8 @@
 {
   "movies": [
-    { "id": 1, "title": "Alien", "url" : "https://www.youtube.com/embed/5rcMAo1vplw", "description" : "Best film ever"},
-    { "id": 2, "title": "Blackkklansman", "url" : "https://www.youtube.com/embed/fQNZhs0QKq0", "description" : "Best film ever" },
-    { "id": 3, "title": "Karina" }
+    { "id": 0, "title": "Alien", "url" : "https://www.youtube.com/embed/5rcMAo1vplw", "description" : "Best film ever"},
+    { "id": 1, "title": "Blackkklansman", "url" : "https://www.youtube.com/embed/fQNZhs0QKq0", "description" : "Best film ever" },
+    { "id": 2, "title": "Karina" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

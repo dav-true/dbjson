@@ -11,5 +11,10 @@
     { "id": 8, "title": "Moonlight", "url": "https://www.youtube.com/embed/9NJj12tJzqc", "year": "2016", "country":"USA", "age" : "16+", "time":"111 min", "director" : "Barry Jenkins", "genre":"Drama","actors":" Mahershala Ali, Naomie Harris, Trevante Rhodes, ...", "description": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood."},
     { "id": 9, "title": "Mary Poppins Returns", "url": "https://www.youtube.com/embed/-3jsfXDZLIY", "year": "2018", "country":"USA | UK", "age" : "6+", "time":"130 min", "director" : "Rob Marshall", "genre":"Comedy | Family", "actors":" Emily Blunt, Lin-Manuel Miranda, Ben Whishaw, ...", "description": "A few decades after her original visit, Mary Poppins (Emily Blunt), the magical nanny, returns to help the Banks siblings and Michael's (Ben Whishaw's) children through a difficult time in their lives."},
     { "id": 10, "title": "Blade Runner 2049", "url": "https://www.youtube.com/embed/gCcx85zbxz4", "year": "2017","country":"USA | UK | Hungary |", "age" : "18+", "time":"164 min", "director" : "Denis Villeneuve", "actors":"Harrison Ford, Ryan Gosling, Ana de Armas, ...","genre":" Action | Drama ", "description": "Young Blade Runner \"K\"'s (Ryan Gosling's) discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard (Harrison Ford), who's been missing for thirty years."}
+  ],
+  "cities": [
+    {"id": 0, "name":"Kyiv"},
+    {"id": 1, "name":"Lviv"},
+    {"id": 2, "name":"Vinnitsa"}
   ]
 }

@@ -15,6 +15,14 @@
   "cities": [
     {"id": 0, "name":"Kyiv"},
     {"id": 1, "name":"Lviv"},
-    {"id": 2, "name":"Vinnitsa"}
+    {"id": 2, "name":"Vinnitsa"},
+    {"id": 3, "name":"Cherkasy"},
+    {"id": 4, "name":"Kherson"},
+    {"id": 5, "name":"Dnepr"},
+    {"id": 6, "name":"Donetsk"},
+    {"id": 7, "name":"Sumy"},
+    {"id": 8, "name":"Rivne"},
+    {"id": 9, "name":"Odessa"},
+    {"id": 10, "name":"Ternopil"}
   ]
 }

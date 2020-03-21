@@ -26,8 +26,8 @@
     {"id": 10, "name":"Ternopil"}
   ], 
   "cinemas" : [
-    {"id": 0, "name":"Smart Plaza", "photo":"../img/cinema1.jpg", "address":"Yanhelya St. 22", "phone_num":"+38 030 302 6854", "tags": ["LUX", "VIP", "3D", "LASER", "Places for invalid people"]},
-    {"id": 1, "name":"Bellis Ferr", "photo":"../img/cinema2.jpg", "address":"Lomonosova Ave. 73", "phone_num":"+38 030 302 6854", "tags": ["IMAX", "VIP", "3D","ScreenX", "Places for invalid people"]},
-    {"id": 2, "name":"Hugo Mall", "photo":"../img/cinema3.jpg", "address":"Leiski St. 2", "phone_num":"+38 030 302 6854", "tags": [ "VIP", "3D","ScreenX", "Places for invalid people"]}
+    {"id": 0, "name":"Smart Plaza", "city":"Kyiv","photo":"../img/cinema1.jpg", "address":"Yanhelya St. 22", "phone_num":"+38 030 302 6854", "tags": ["LUX", "VIP", "3D", "LASER", "Places for invalid people"]},
+    {"id": 1, "name":"Bellis Ferr", "city":"Kyiv", "photo":"../img/cinema2.jpg", "address":"Lomonosova Ave. 73", "phone_num":"+38 030 302 6854", "tags": ["IMAX", "VIP", "3D","ScreenX", "Places for invalid people"]},
+    {"id": 2, "name":"Hugo Mall", "city":"Kyiv" , "photo":"../img/cinema3.jpg", "address":"Leiski St. 2", "phone_num":"+38 030 302 6854", "tags": [ "VIP", "3D","ScreenX", "Places for invalid people"]}
   ]
 }

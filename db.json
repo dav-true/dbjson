@@ -13,17 +13,18 @@
     { "id": 10, "title": "Blade Runner 2049", "url": "https://www.youtube.com/embed/gCcx85zbxz4", "year": "2017","country":"USA | UK | Hungary |", "age" : "18+", "time":"164 min", "director" : "Denis Villeneuve", "actors":"Harrison Ford, Ryan Gosling, Ana de Armas, ...","genre":" Action | Drama ", "description": "Young Blade Runner \"K\"'s (Ryan Gosling's) discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard (Harrison Ford), who's been missing for thirty years."}
   ],
   "cities": [
-    {"id": 0, "name":"Kyiv"},
-    {"id": 1, "name":"Lviv"},
-    {"id": 2, "name":"Vinnitsa"},
-    {"id": 3, "name":"Cherkasy"},
-    {"id": 4, "name":"Kherson"},
-    {"id": 5, "name":"Dnepr"},
-    {"id": 6, "name":"Donetsk"},
-    {"id": 7, "name":"Sumy"},
-    {"id": 8, "name":"Rivne"},
-    {"id": 9, "name":"Odessa"},
-    {"id": 10, "name":"Ternopil"}
+    {"id": 0, "name":"All Cities"},
+    {"id": 1, "name":"Kyiv"},
+    {"id": 2, "name":"Lviv"},
+    {"id": 3, "name":"Vinnitsa"},
+    {"id": 4, "name":"Cherkasy"},
+    {"id": 5, "name":"Kherson"},
+    {"id": 6, "name":"Dnepr"},
+    {"id": 7, "name":"Donetsk"},
+    {"id": 8, "name":"Sumy"},
+    {"id": 9, "name":"Rivne"},
+    {"id": 10, "name":"Odessa"},
+    {"id": 11, "name":"Ternopil"}
   ], 
   "cinemas" : [
     {"id": 0, "name":"Smart Plaza", "city":"Kyiv","photo":"../img/cinema1.jpg", "address":"Yanhelya St. 22", "phone_num":"+38 030 302 6854", "tags": ["LUX", "VIP", "3D", "LASER", "Places for invalid people"]},

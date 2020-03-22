@@ -13,7 +13,7 @@
     { "id": 10, "title": "Blade Runner 2049", "url": "https://www.youtube.com/embed/gCcx85zbxz4", "year": "2017","country":"USA | UK | Hungary |", "age" : "18+", "time":"164 min", "director" : "Denis Villeneuve", "actors":"Harrison Ford, Ryan Gosling, Ana de Armas, ...","genre":" Action | Drama ", "description": "Young Blade Runner \"K\"'s (Ryan Gosling's) discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard (Harrison Ford), who's been missing for thirty years."}
   ],
   "cities": [
-    {"id": 0, "name":"All Cities"},
+    {"id": 0, "name":"All cities"},
     {"id": 1, "name":"Kyiv"},
     {"id": 2, "name":"Lviv"},
     {"id": 3, "name":"Vinnitsa"},

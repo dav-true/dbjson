@@ -33,11 +33,20 @@
     {"id": 3, "name":"Cloud Mall", "city":"Lviv" , "photo":"../img/cinema4.jpg", "address":"Dovzhenka St. 51", "phone_num":"+38 030 302 5621", "tags": [ "VIP", "IMAX", "ScreenX", "Places for invalid people"]},
     {"id": 4, "name":"Hellings", "city":"Lviv" , "photo":"../img/cinema5.jpg", "address":"Pobedy Ave. 12", "phone_num":"+38 030 302 5621", "tags": [ "LUX", "VIP", "3D","ScreenX", "LASER"]},
     {"id": 5, "name":"SkyMall", "city":"Vinnitsa" , "photo":"../img/cinema6.jpg", "address":"Keranovich St. 88", "phone_num":"+38 030 302 1135", "tags": [ "VIP", "3D","ScreenX", "LASER"]},
-    {"id": 6, "name":"Piramida", "city":"Cherkasy" , "photo":"../img/cinema7.jpg", "address":"Terishkova Ave. 27", "phone_num":"+38 030 302 1409", "tags": [ "LUX", "VIP", "3D","ScreenX", "LASER", "Places for invalid people"]},
-    {"id": 7, "name":"Local Mall", "city":"Kherson" , "photo":"../img/cinema8.jpg", "address":"Pushkinska St. 6", "phone_num":"+38 030 302 3503", "tags": [ "VIP", "3D","ScreenX", "IMAX", "LASER", "Places for invalid people"]},
-    {"id": 8, "name":"Affimall", "city":"Dnepr" , "photo":"../img/cinema9.jpg", "address":"Antonovich St. 43", "phone_num":"+38 030 302 6792", "tags": [ "LUX", "IMAX","ScreenX", "LASER"]},
-    {"id": 9, "name":"DonArena", "city":"Donetsk" , "photo":"../img/cinema10.jpg", "address":"Shahtarna St. 61", "phone_num":"+38 030 302 7211", "tags": [ "IMAX", "VIP", "3D", "LASER", "Places for invalid people"]},
-    {"id": 10, "name":"Local Mall", "city":"Kherson" , "photo":"../img/cinema11.jpg", "address":"Vladimirska St. 42", "phone_num":"+38 030 302 5190", "tags": [ "LUX", "VIP", "3D","ScreenX", "IMAX"]}
+    {"id": 6, "name":"Fillion Mall", "city":"Vinnitsa" , "photo":"../img/cinema17.jpg", "address":"Polska St. 26", "phone_num":"+38 030 302 1135", "tags": [ "LUX",  "VIP", "LASER", "IMAX", "Places for invalid people"]},
+    {"id": 7, "name":"Piramida", "city":"Cherkasy" , "photo":"../img/cinema7.jpg", "address":"Terishkova Ave. 27", "phone_num":"+38 030 302 1409", "tags": [ "LUX", "VIP", "3D","ScreenX", "LASER", "Places for invalid people"]},
+    {"id": 8, "name":"Local Mall", "city":"Kherson" , "photo":"../img/cinema8.jpg", "address":"Pushkinska St. 6", "phone_num":"+38 030 302 3503", "tags": [ "VIP", "3D","ScreenX", "IMAX", "LASER", "Places for invalid people"]},
+    {"id": 9, "name":"Affimall", "city":"Dnepr" , "photo":"../img/cinema9.jpg", "address":"Antonovich St. 43", "phone_num":"+38 030 302 6792", "tags": [ "LUX", "IMAX","ScreenX", "LASER"]},
+    {"id": 10, "name":"DonArena", "city":"Donetsk" , "photo":"../img/cinema10.jpg", "address":"Shahtarna St. 61", "phone_num":"+38 030 302 7211", "tags": [ "IMAX", "VIP", "3D", "LASER", "Places for invalid people"]},
+    {"id": 11, "name":"Local Mall", "city":"Kherson" , "photo":"../img/cinema11.jpg", "address":"Vladimirska St. 42", "phone_num":"+38 030 302 5190", "tags": [ "LUX", "VIP", "3D","ScreenX", "IMAX"]},
+    {"id": 12, "name":"Metropolis", "city":"Sumy" , "photo":"../img/cinema12.jpg", "address":"Petlury St. 84", "phone_num":"+38 030 302 4192", "tags": [ "LUX", "ScreenX", "IMAX", "Places for invalid people"]},
+    {"id": 13, "name":"Atrium", "city":"Rivne" , "photo":"../img/cinema13.jpg", "address":"Institutska St. 65", "phone_num":"+38 030 302 9130", "tags": [ "VIP", "LASER", "IMAX", "Places for invalid people"]},
+    {"id": 14, "name":"Columbus", "city":"Odessa" , "photo":"../img/cinema14.jpg", "address":"Shevchenka St. 71", "phone_num":"+38 030 302 6901", "tags": [ "LUX","VIP", "LASER", "IMAX", "Places for invalid people"]},
+    {"id": 15, "name":"Nikolska Mall", "city":"Odessa" , "photo":"../img/cinema16.jpg", "address":"Voroshylova St. 91", "phone_num":"+38 030 302 6901", "tags": [ "VIP", "LASER", "IMAX", "Places for invalid people"]},
+    {"id": 16, "name":"Metropolis", "city":"Ternopil" , "photo":"../img/cinema15.jpg", "address":"Avdeeva St. 13", "phone_num":"+38 030 302 5679", "tags": [ "LUX", "3D", "IMAX", "Places for invalid people"]}
+
+
+
   
   
   

@@ -1,3 +1,5 @@
+
+
 {
   "movies": [
     { "id": 0, "title": "Alien", "url" : "https://www.youtube.com/embed/svnAD0TApb8", "year": "2017", "country":"USA", "age" : "18+", "time":"122 min", "director" : "Ridley Scott", "genre":"Horror | Thriller", "actors":"Michael Fassbender, Katherine Waterston, Billy Crudup, ...", "description" : "The crew of a colony ship, bound for a remote planet, discover an uncharted paradise with a threat beyond their imagination, and must attempt a harrowing escape."},
@@ -44,12 +46,17 @@
     {"id": 14, "name":"Columbus", "city":"Odessa" , "photo":"img/cinema14.webp", "address":"Shevchenka St. 71", "phone_num":"+38 030 302 6901", "tags": [ "LUX","VIP", "LASER", "IMAX", "Places for invalid people"]},
     {"id": 15, "name":"Nikolska Mall", "city":"Odessa" , "photo":"img/cinema16.jpeg", "address":"Voroshylova St. 91", "phone_num":"+38 030 302 6901", "tags": [ "VIP", "LASER", "IMAX", "Places for invalid people"]},
     {"id": 16, "name":"Metropolis", "city":"Ternopil" , "photo":"img/cinema15.jpeg", "address":"Avdeeva St. 13", "phone_num":"+38 030 302 5679", "tags": [ "LUX", "3D", "IMAX", "Places for invalid people"]}
-
-
-
-  
-  
-  
-  
+  ],
+  "cinemas_schedule": [
+    {"cinemaID": 0, "cinemaName": "Smart Plaza", "schedule" : [ 
+      {"year": "2020", "month": "3" , "days": ["1", "2", "3", "4"] , "current_schedule" :
+        [ 
+          {"time": "9:00", "movie":"Alien"},
+          {"time":"10:00", "movie":"La la land"}
+          
+        ] 
+      }
+     ]
+    }
   ]
 }
